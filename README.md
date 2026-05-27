@@ -1,4 +1,3 @@
-# Destined Dust (DOT) com
+# bytefroot
 
-For further inquiries, maintainence, development, fixes etc, call
-Andre (thx btw)
+WebCode for ByteFroot.org
